@@ -15,10 +15,7 @@ For example: subtract 3 months from May 2020. This should result in an output Fe
 In this example inputs: year=2020 month=5
 output: year=2020 month=2
 
-Code evaluation criteria:
-1. Correctness for all possible cases
-2. Code should be clean and readable
-3. optimal with respect to time and space complexity (e.g. avoid unnecessary extra variables and loops) 
+
 
 """
 

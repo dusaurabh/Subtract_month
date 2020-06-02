@@ -21,7 +21,7 @@ output: year=2020 month=2
 
 def subtract_months(year,month,sub_month):
     output_list = []
-    #TODO: implement your code here
+  
     result_month = 0
     result_year = 0
     if month > (sub_month % 12):

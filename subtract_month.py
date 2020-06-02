@@ -35,5 +35,5 @@ def subtract_months(year,month,sub_month):
 
     return output_list
 
-print(subtract_months(2020,5,3))
+print(subtract_months(2020,5,3)) # You can change this value with your custom year and month value 
 
